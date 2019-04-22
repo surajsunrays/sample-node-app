@@ -18,6 +18,8 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React
+            <h2>Welcome to React JS Programming</h2>
+            <p>sample app is running inside the container </p>
           </a>
         </header>
       </div>
